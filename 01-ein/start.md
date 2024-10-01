@@ -15,4 +15,5 @@
 2. Die Quellcodeverwaltung aufrufen.
 3. Alle geänderten Datein **stagen**. Alternativ kann im Terminal der Befehl ``git add *.*`` eingegeben werden.
 D.h. alle Datein werden ab jetzt im lokalen Respository (nicht auf Github) verwaltet.
+Einen Aussagekräftigen Text in das Feld über den commit `commit`- Button eingeben und die Schaltfläche commit drücken. Der Befehl im Terminal lautet: 
 
