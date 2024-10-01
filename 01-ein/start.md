@@ -17,3 +17,13 @@
 D.h. alle Datein werden ab jetzt im lokalen Respository (nicht auf Github) verwaltet.
 Einen Aussagekräftigen Text in das Feld über den commit `commit`- Button eingeben und die Schaltfläche commit drücken. Der Befehl im Terminal lautet: 
 
+```bash 
+git commit -m "Erstes Markdown File erstellt. `` 
+```
+
+5. Synchronisieren anklicken um die Datein auf das **Remote-Repository** auf **Github** hochzuladen. Der Terminal Befehl lautet: 
+
+```bash
+git remote add origin https://github.com/Humamimi/GitTest.git 
+git push -u origin main 
+```
