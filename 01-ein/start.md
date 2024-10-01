@@ -13,4 +13,6 @@
 ## Arbeitsablauf in Github
 1. Eine neue **Datei/Ordner** erstellen
 2. Die Quellcodeverwaltung aufrufen.
-3. Alle geänderten Datein **stagen**.
+3. Alle geänderten Datein **stagen**. Alternativ kann im Terminal der Befehl ``git add *.*`` eingegeben werden.
+D.h. alle Datein werden ab jetzt im lokalen Respository (nicht auf Github) verwaltet.
+
