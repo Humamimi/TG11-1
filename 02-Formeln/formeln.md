@@ -65,4 +65,27 @@ Ein integral $\int_a^b \limits f (x) \cdot
 dx$ wird erstellt mit: `$\int_a^b \limits f (x) \cdot 
 dx$`
 
-Der befehl  `\limit` sorgt dafür, das die Integrationsgrenzen $a$  und $ b$ über und unter dem Integralsymbol angezeigt werden. 
+Der befehl  `\limit` sorgt dafür, das die Integrationsgrenzen $a$  und $b$ über und unter dem Integralsymbol angezeigt werden. 
+
+
+
+
+
+
+
+##Meine Übungen
+
+$\alpha$ da steht jetzt `$\alpha$`und das ist #Sonderzeichen
+
+$\frac{5x-2}{5+5}$ da steht jetzt `$\frac{5x-2}{5+5}$` und das ist #Bruch
+
+$\sqrt {5}$ da steht jetzt `$\sqrt {5}$`und das ist die #Wurtzel
+
+$\sqrt [3]{5}$ da steht jetzt `$\sqrt [3]{5}$` und das ist #3te Wurtzel
+
+$3_{\beta 3}^{\alpha 5}$ da steht `$3_{\beta 3}^{\alpha 5}$` un das ist die #Hoch/Tiefsstellen
+
+
+
+
+
