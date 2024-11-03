@@ -69,11 +69,12 @@ Der befehl  `\limit` sorgt dafür, das die Integrationsgrenzen $a$  und $b$ übe
 
 
 
-
-
-
-
 ##Meine Übungen
+
+
+
+$\int_a^b \limits f (x) \cdot 
+dx$ und da steht jetzt `$\int_a^b \limits f (x) \cdot dx$` #Integral
 
 $\alpha$ da steht jetzt `$\alpha$`und das ist #Sonderzeichen
 
@@ -84,6 +85,9 @@ $\sqrt {5}$ da steht jetzt `$\sqrt {5}$`und das ist die #Wurtzel
 $\sqrt [3]{5}$ da steht jetzt `$\sqrt [3]{5}$` und das ist #3te Wurtzel
 
 $3_{\beta 3}^{\alpha 5}$ da steht `$3_{\beta 3}^{\alpha 5}$` un das ist die #Hoch/Tiefsstellen
+{}[]
+
+$\frac {1}{2}$ $\sqrt {5}$ $\sqrt[3]{5}$ $\alpha$ $\int_3^7 \limits$
 
 
 
