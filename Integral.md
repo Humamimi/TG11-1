@@ -50,3 +50,30 @@ Tabellen
 |$\alpha$  |`$\alpha$`|solche Zeichen werden in Mathe häufig benutzt.|
 
 
+# Webseiten und so
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Humams Zukunftsjobs</title>
+    
+</head>Humams beste Zukunftsjobs
+<body>
+<h1>Humam seine Zukunftjibs </h1>
+<a href="https://de.wikipedia.org/wiki/Prostitution">Wahrscheinlichkeit von 100%</a>
+<a href="https://de.wikipedia.org/wiki/Schawarma">Wahrscheinlichkeit von 20%</a>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
